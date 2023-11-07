@@ -56,7 +56,7 @@ class CustomTileWidget extends StatelessWidget {
                     softWrap: true,
                     custAddress,
                     style: const TextStyle(
-                      color: Colors.black,
+                      color: Colors.white,
                       fontSize: 14,
                       fontWeight: FontWeight.bold,
                     ),
