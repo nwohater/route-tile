@@ -67,7 +67,7 @@ class ICRouteTile extends StatelessWidget {
                           fontWeight: FontWeight.bold,
                         ),
                       ),
-                      SizedBox(height: 5),
+                      const SizedBox(height: 5),
                       Text(
                         custAddress,
                         style: const TextStyle(
